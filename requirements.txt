@@ -1,2 +1,6 @@
 streamlit
+xgboost
+pybaseball
+scikit-learn
 pandas
+numpy
